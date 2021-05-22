@@ -1,0 +1,63 @@
+.bg-light{
+    background: rgb(218, 216, 216) !important;
+}
+.ul1{
+    font-size:18px;
+    font-weight: 500;
+    
+}
+.d1{
+    background: rgb(139, 136, 136);
+    height:95px;
+}
+.d2{
+    height:100px;
+}
+.d3{
+    background: rgb(102, 101, 101);
+    height:40px;
+}
+.sec2{
+    background: rgb(139, 136, 136);
+    height:400px;
+}
+.sec3{
+    background: rgb(139, 136, 136);
+    height:500px;
+}
+.d4{
+    height:350px;
+    margin-top:10px !important;
+  
+}
+.sec4{
+    height:470px;
+}
+.sec5{
+    height:200px;
+}
+
+.sec7{
+    height:400px;
+    font-size:250px;
+}
+.sec8{
+    height:900px;
+}
+.d5{
+    height:850px;
+    background:rgb(151, 149, 160);
+}
+.sec9{
+    height: 850px;
+}
+.d6{
+    height:300px;
+    background:rgb(151, 149, 160);
+    margin-bottom: 150px !important;
+}
+.d7{
+    height:400px;
+    background:rgb(151, 149, 160);
+}
+
